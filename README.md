@@ -9,7 +9,7 @@ My name is Maxim, i am a student at School21 (l'Ecole42 franchise).
 
 You can reach me through telegram - @MySNDie or mail - zvmkm@mail.ru
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msndie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msndie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **msndie/msndie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
