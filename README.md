@@ -9,6 +9,8 @@ My name is Maxim, i am a student at School21 (l'Ecole42 franchise).
 
 You can reach me through telegram - @MySNDie or email - zvmkm@mail.ru
 
+[![sclam's 42 stats](https://badge42.vercel.app/api/v2/cl6s64qvz00250gl6xd9eqt0k/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+
 <!--
 **msndie/msndie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
