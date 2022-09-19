@@ -1,4 +1,4 @@
-<h3>A Java backend developer</h3>
+<h3>Java backend developer</h3>
 
 My name is Maxim, i am a student at School21 (l'Ecole42 franchise).
 
