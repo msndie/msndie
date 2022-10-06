@@ -9,6 +9,8 @@ My name is Maxim, i am a student at School21 (l'Ecole42 franchise).
 
 You can reach me through telegram - @MySNDie or email - zvmkm@mail.ru
 
+CV - <a href="https://github.com/msndie/CV/blob/main/%D0%97%D1%83%D0%B5%D0%B2%20%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%2C%20Java%20dev.pdf">Click here</a>
+
 [![sclam's 42 stats](https://badge42.vercel.app/api/v2/cl6s64qvz00250gl6xd9eqt0k/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
 <!--
