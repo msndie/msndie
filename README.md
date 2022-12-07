@@ -1,6 +1,6 @@
 <!-- <h3>Java backend developer</h3> -->
 
-My name is Maxim, i am a student at School21 (l'Ecole42 franchise).
+My name is Maxim, i am a student at School21 (l'Ecole42 franchise). Intern at Cloud.
 
 
 <h3 align="left">Languages and Tools:</h3>
